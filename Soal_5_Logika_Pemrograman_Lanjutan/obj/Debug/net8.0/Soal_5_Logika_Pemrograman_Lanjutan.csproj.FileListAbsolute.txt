@@ -1,0 +1,14 @@
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\bin\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.exe
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\bin\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.deps.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\bin\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.runtimeconfig.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\bin\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\bin\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.AssemblyInfoInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.AssemblyInfo.cs
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.csproj.CoreCompileInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\refint\Soal_5_Logika_Pemrograman_Lanjutan.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\Soal_5_Logika_Pemrograman_Lanjutan.genruntimeconfig.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_5_Logika_Pemrograman_Lanjutan\obj\Debug\net8.0\ref\Soal_5_Logika_Pemrograman_Lanjutan.dll

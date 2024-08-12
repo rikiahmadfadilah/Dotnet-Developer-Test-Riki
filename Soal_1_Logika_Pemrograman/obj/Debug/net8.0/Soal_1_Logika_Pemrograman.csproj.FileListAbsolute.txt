@@ -1,0 +1,14 @@
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\bin\Debug\net8.0\Soal_1_Logika_Pemrograman.exe
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\bin\Debug\net8.0\Soal_1_Logika_Pemrograman.deps.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\bin\Debug\net8.0\Soal_1_Logika_Pemrograman.runtimeconfig.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\bin\Debug\net8.0\Soal_1_Logika_Pemrograman.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\bin\Debug\net8.0\Soal_1_Logika_Pemrograman.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.AssemblyInfoInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.AssemblyInfo.cs
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.csproj.CoreCompileInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\refint\Soal_1_Logika_Pemrograman.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\Soal_1_Logika_Pemrograman.genruntimeconfig.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_1_Logika_Pemrograman\obj\Debug\net8.0\ref\Soal_1_Logika_Pemrograman.dll

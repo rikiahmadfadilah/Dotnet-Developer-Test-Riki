@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Soal_5_Logika_Pemrograman_Lanjutan/1.0.0": {
+        "runtime": {
+          "Soal_5_Logika_Pemrograman_Lanjutan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soal_5_Logika_Pemrograman_Lanjutan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

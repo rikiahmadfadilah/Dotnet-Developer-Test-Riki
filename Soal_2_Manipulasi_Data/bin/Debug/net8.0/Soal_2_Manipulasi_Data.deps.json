@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Soal_2_Manipulasi_Data/1.0.0": {
+        "runtime": {
+          "Soal_2_Manipulasi_Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soal_2_Manipulasi_Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

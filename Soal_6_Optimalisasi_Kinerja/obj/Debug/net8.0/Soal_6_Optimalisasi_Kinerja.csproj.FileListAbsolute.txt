@@ -1,0 +1,14 @@
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\bin\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.exe
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\bin\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.deps.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\bin\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.runtimeconfig.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\bin\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\bin\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.AssemblyInfoInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.AssemblyInfo.cs
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.csproj.CoreCompileInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\refint\Soal_6_Optimalisasi_Kinerja.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\Soal_6_Optimalisasi_Kinerja.genruntimeconfig.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_6_Optimalisasi_Kinerja\obj\Debug\net8.0\ref\Soal_6_Optimalisasi_Kinerja.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\bin\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.exe
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\bin\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.deps.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\bin\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.runtimeconfig.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\bin\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\bin\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.AssemblyInfoInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.AssemblyInfo.cs
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.csproj.CoreCompileInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\refint\Soal_3_Pemahaman_Struktur_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\Soal_3_Pemahaman_Struktur_Data.genruntimeconfig.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_3_Pemahaman_Struktur_Data\obj\Debug\net8.0\ref\Soal_3_Pemahaman_Struktur_Data.dll

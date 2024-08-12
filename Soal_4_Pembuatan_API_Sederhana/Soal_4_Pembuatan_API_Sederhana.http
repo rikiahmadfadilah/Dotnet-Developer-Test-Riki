@@ -1,0 +1,6 @@
+@Soal_4_Pembuatan_API_Sederhana_HostAddress = http://localhost:5135
+
+GET {{Soal_4_Pembuatan_API_Sederhana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

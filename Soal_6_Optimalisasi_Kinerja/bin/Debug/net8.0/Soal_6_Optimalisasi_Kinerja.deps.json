@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Soal_6_Optimalisasi_Kinerja/1.0.0": {
+        "runtime": {
+          "Soal_6_Optimalisasi_Kinerja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soal_6_Optimalisasi_Kinerja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

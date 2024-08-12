@@ -1,0 +1,14 @@
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\bin\Debug\net8.0\Soal_2_Manipulasi_Data.exe
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\bin\Debug\net8.0\Soal_2_Manipulasi_Data.deps.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\bin\Debug\net8.0\Soal_2_Manipulasi_Data.runtimeconfig.json
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\bin\Debug\net8.0\Soal_2_Manipulasi_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\bin\Debug\net8.0\Soal_2_Manipulasi_Data.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.AssemblyInfoInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.AssemblyInfo.cs
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.csproj.CoreCompileInputs.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\refint\Soal_2_Manipulasi_Data.dll
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.pdb
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\Soal_2_Manipulasi_Data.genruntimeconfig.cache
+D:\Dotnet Developer Test\Dotnet Developer Test Riki\Soal_2_Manipulasi_Data\obj\Debug\net8.0\ref\Soal_2_Manipulasi_Data.dll

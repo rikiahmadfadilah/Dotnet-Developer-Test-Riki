@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_1_Logika_Pemrograman", "Soal_1_Logika_Pemrograman\Soal_1_Logika_Pemrograman.csproj", "{F6E95D1F-F990-4516-B735-5A2794BE494E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_2_Manipulasi_Data", "Soal_2_Manipulasi_Data\Soal_2_Manipulasi_Data.csproj", "{43048CF0-A3A9-47E1-BED0-9A930BDDE835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_3_Pemahaman_Struktur_Data", "Soal_3_Pemahaman_Struktur_Data\Soal_3_Pemahaman_Struktur_Data.csproj", "{1FA91074-EFC4-4B20-BC7F-E19DDD34FDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_4_Pembuatan_API_Sederhana", "Soal_4_Pembuatan_API_Sederhana\Soal_4_Pembuatan_API_Sederhana.csproj", "{BCB8F518-FA5F-4C05-BA24-44308097ABEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_5_Logika_Pemrograman_Lanjutan", "Soal_5_Logika_Pemrograman_Lanjutan\Soal_5_Logika_Pemrograman_Lanjutan.csproj", "{4D4E6C05-D4A9-4957-A3E9-4F64F90C0EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal_6_Optimalisasi_Kinerja", "Soal_6_Optimalisasi_Kinerja\Soal_6_Optimalisasi_Kinerja.csproj", "{2A869389-B112-4EB2-971A-50605129C4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E95D1F-F990-4516-B735-5A2794BE494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E95D1F-F990-4516-B735-5A2794BE494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E95D1F-F990-4516-B735-5A2794BE494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E95D1F-F990-4516-B735-5A2794BE494E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43048CF0-A3A9-47E1-BED0-9A930BDDE835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43048CF0-A3A9-47E1-BED0-9A930BDDE835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43048CF0-A3A9-47E1-BED0-9A930BDDE835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43048CF0-A3A9-47E1-BED0-9A930BDDE835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA91074-EFC4-4B20-BC7F-E19DDD34FDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA91074-EFC4-4B20-BC7F-E19DDD34FDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA91074-EFC4-4B20-BC7F-E19DDD34FDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA91074-EFC4-4B20-BC7F-E19DDD34FDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB8F518-FA5F-4C05-BA24-44308097ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB8F518-FA5F-4C05-BA24-44308097ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB8F518-FA5F-4C05-BA24-44308097ABEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB8F518-FA5F-4C05-BA24-44308097ABEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4E6C05-D4A9-4957-A3E9-4F64F90C0EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4E6C05-D4A9-4957-A3E9-4F64F90C0EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4E6C05-D4A9-4957-A3E9-4F64F90C0EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4E6C05-D4A9-4957-A3E9-4F64F90C0EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A869389-B112-4EB2-971A-50605129C4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A869389-B112-4EB2-971A-50605129C4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A869389-B112-4EB2-971A-50605129C4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A869389-B112-4EB2-971A-50605129C4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD4D81ED-A848-4889-BA41-6D9BCC3014FF}
+	EndGlobalSection
+EndGlobal
